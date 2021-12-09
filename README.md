@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arun-bala-34308620a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arun-bala-34308620a/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abclingam1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/abclingam1" height="30" width="40" /></a>
-<a href="https://instagram.com/arun_bala_ig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arun bala" height="30" width="40" /></a>
-<a href="https://leetcode.com/Arunbala/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Arunbala/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arun-bala-34308620a/" target="blank"><img color="white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/arun-bala-34308620a/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abclingam1" target="blank"><img color="white"  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/abclingam1" height="30" width="40" /></a>
+<a href="https://instagram.com/arun_bala_ig" target="blank"><img color="white"  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Arun bala" height="30" width="40" /></a>
+<a href="https://leetcode.com/Arunbala/" target="blank"><img color="white"  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Arunbala/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
