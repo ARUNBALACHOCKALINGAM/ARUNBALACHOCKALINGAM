@@ -15,7 +15,7 @@
 
 - 📝 I look forward to solve social problems using innovative solutions and modern tech 💫
 
-- 💬 Ask me about **Full stack development,Programming languages like Java, PythonL and javascript**
+- 💬 Ask me about **Full stack development and Programming languages like Java, Python and Javascript**
 
 - 🔸 Email:  abclingam1@gmail.com
 
